@@ -37,7 +37,7 @@
     "jquery": "1.11.3",
     "jquery-ui": "1.12.1",
     "nunjucks": "^3.2.3",
-    "underscore": "^1.13.2"
+    "underscore": "^1.13.4"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
